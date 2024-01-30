@@ -1,5 +1,5 @@
 ![Nom de l'image](https://cdn.discordapp.com/attachments/759173919504072704/1201231709459451984/6b920b32-0abd-4ad6-b872-a4d7015910c0.jpeg?ex=65c91135&is=65b69c35&hm=8b220965de1661f1f2a6a6fc8a077c0210f340cfa223bb2c7b0f41c0886f8b3f&)
-# MonPV
+# FrenchPV
 
 Ce plugin permet de verbaliser une voiture mal stationné
 
