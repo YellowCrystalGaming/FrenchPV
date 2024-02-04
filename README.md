@@ -11,7 +11,7 @@ Ce plugin permet de verbaliser une voiture mal stationné
 
 ## Installation
 
-1. Téléchargez les fichiers `MonPV.dll`, `MyMenu.dll`, `UIPanelManager.dll` et `FoxORM.dll` depuis la page des releases de ce dépôt.  
+1. Téléchargez les fichiers `FrenchPV.dll`, `MyMenu.dll`, `UIPanelManager.dll` et `FoxORM.dll` depuis la page des releases de ce dépôt.  
 2. Ajoutez les fichiers dans le dossier `plugins` de votre serveur Nova-Life.
 
 ## Fonctionnalités
