@@ -3,12 +3,6 @@
 
 Ce plugin permet de verbaliser une voiture mal stationné
 
-## Table des Matières
-
-- [Installation](#installation)
-- [Fonctionnalités](#fonctionnalités)
-- [Droits de Propriété Intellectuelle](#droits-de-propriété-intellectuelle)
-
 ## Installation
 
 1. Téléchargez les fichiers `FrenchPV.dll`, `MyMenu.dll`, `UIPanelManager.dll` et `FoxORM.dll` depuis la page des releases de ce dépôt.  
